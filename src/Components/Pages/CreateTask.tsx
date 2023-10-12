@@ -37,7 +37,7 @@ const createTask = () => {
 
   return (
     <div>
-      <div className="flex w-[calc(100vw-350px)] h-[calc(100vh-70px)] p-6 flex-col bg-gray-200 pt-[100px] small:w-full">
+      <div className="flex w-[calc(100vw-350px)] h-[calc(100vh)] p-6 flex-col bg-gray-200 pt-[100px] small:w-full">
         <div className="flex">
           <div className="mr-4 text-[30px]">
             <BiTask />
